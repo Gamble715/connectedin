@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  username: 
+  city_pic: 
+  first_name: 
+  last_name: 
+  profile_pic: MyString
+
+two:
+  username: 
+  city_pic: 
+  first_name: 
+  last_name: 
+  profile_pic: MyString

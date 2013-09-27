@@ -1,0 +1,5 @@
+<ul><h1>Students</h1>
+	<% @profiles.each do |p| %>
+		<li><%= link_to p.first_name, profile_path(p.username) %></li>
+	<% end %>
+</ul>
